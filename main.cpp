@@ -1,6 +1,7 @@
 #include <iostream>
+#include "randomh/random.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << rnd::generate() << std::endl;
     return 0;
 }
