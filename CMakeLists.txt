@@ -3,4 +3,4 @@ project(Learn_4MainMathOperator)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Learn_4MainMathOperator main.cpp randomh/random.h constants.h randomh/random.cpp)
+add_executable(Learn_4MainMathOperator main.cpp randomh/random.h constants.h randomh/random.cpp constants.cpp)
