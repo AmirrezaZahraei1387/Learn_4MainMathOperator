@@ -1,2 +1,3 @@
 # Learn_4MainMathOperator
-this is a console application that is created to teach students Multiplication, Subtraction, Multiplication, Division
+this is a simple application that is created to help students learn about
+multipication, devision , addition and subtraction 
