@@ -1,0 +1,10 @@
+//
+// Created by KAVOSH on 6/29/2023.
+//
+#ifndef LEARN_4MAINMATHOPERATOR_CONSTANTS_H
+#define LEARN_4MAINMATHOPERATOR_CONSTANTS_H
+namespace cons{
+    inline constexpr int NUMBER_ASKING {10};
+
+}//cons
+#endif //LEARN_4MAINMATHOPERATOR_CONSTANTS_H
