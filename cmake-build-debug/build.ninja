@@ -67,6 +67,12 @@ build CMakeFiles/Learn_4MainMathOperator.dir/consh/constants.cpp.obj: CXX_COMPIL
   OBJECT_DIR = CMakeFiles\Learn_4MainMathOperator.dir
   OBJECT_FILE_DIR = CMakeFiles\Learn_4MainMathOperator.dir\consh
 
+build CMakeFiles/Learn_4MainMathOperator.dir/evalh/eval.cpp.obj: CXX_COMPILER__Learn_4MainMathOperator_Debug E$:/Github$ Repos/Learn_4MainMathOperator/evalh/eval.cpp || cmake_object_order_depends_target_Learn_4MainMathOperator
+  DEP_FILE = CMakeFiles\Learn_4MainMathOperator.dir\evalh\eval.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  OBJECT_DIR = CMakeFiles\Learn_4MainMathOperator.dir
+  OBJECT_FILE_DIR = CMakeFiles\Learn_4MainMathOperator.dir\evalh
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Learn_4MainMathOperator
@@ -75,7 +81,7 @@ build CMakeFiles/Learn_4MainMathOperator.dir/consh/constants.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable Learn_4MainMathOperator.exe
 
-build Learn_4MainMathOperator.exe: CXX_EXECUTABLE_LINKER__Learn_4MainMathOperator_Debug CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj CMakeFiles/Learn_4MainMathOperator.dir/randomh/random.cpp.obj CMakeFiles/Learn_4MainMathOperator.dir/consh/constants.cpp.obj
+build Learn_4MainMathOperator.exe: CXX_EXECUTABLE_LINKER__Learn_4MainMathOperator_Debug CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj CMakeFiles/Learn_4MainMathOperator.dir/randomh/random.cpp.obj CMakeFiles/Learn_4MainMathOperator.dir/consh/constants.cpp.obj CMakeFiles/Learn_4MainMathOperator.dir/evalh/eval.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Learn_4MainMathOperator.dir
