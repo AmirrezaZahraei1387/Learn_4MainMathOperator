@@ -1,0 +1,23 @@
+# ninja log v5
+26	731	7097696051544134	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+732	980	7097696053759706	Learn_4MainMathOperator.exe	883dbeebf8ce907
+7	574	7097687635630601	CMakeFiles/Learn_4MainMathOperator.dir/randomh/random.cpp.obj	4fc9a2ac14faf48c
+3	719	7097686610971239	CMakeFiles/Learn_4MainMathOperator.dir/random.cpp.obj	b01723da47cea738
+3	126	7097693404485445	CMakeFiles/Learn_4MainMathOperator.dir/constants.cpp.obj	615a951d8ccdef15
+1	393	7097699500202734	build.ninja	8795ff8e0b82e560
+5	131	7097696045568096	CMakeFiles/Learn_4MainMathOperator.dir/consh/constants.cpp.obj	76a0d8d47b0ebadd
+20	157	7097702689019750	CMakeFiles/Learn_4MainMathOperator.dir/evalh/eval.cpp.obj	333e464a27eeb177
+4	752	7097702694946338	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+755	1023	7097702697438781	Learn_4MainMathOperator.exe	6e4dc7e1e614d0b1
+5	584	7097702813343615	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+585	810	7097702815363005	Learn_4MainMathOperator.exe	6e4dc7e1e614d0b1
+3	535	7097715927091846	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+3	596	7097716203328677	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+4	558	7097716997751823	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+19	131	7097719459386613	CMakeFiles/Learn_4MainMathOperator.dir/evalh/eval.cpp.obj	333e464a27eeb177
+4	621	7097719464261455	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+621	817	7097719466002270	Learn_4MainMathOperator.exe	6e4dc7e1e614d0b1
+5	556	7097719885666802	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+556	749	7097719887412079	Learn_4MainMathOperator.exe	6e4dc7e1e614d0b1
+4	528	7097720869884481	CMakeFiles/Learn_4MainMathOperator.dir/main.cpp.obj	b67cc4cce0048d75
+529	723	7097720871646123	Learn_4MainMathOperator.exe	6e4dc7e1e614d0b1
